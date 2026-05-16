@@ -2,13 +2,13 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #1C5A9E; /* blue like your image */
+  background: #3587A4; /* blue like your image */
 }
 
 
 /* Header */
 header {
-  background: #1C5A9E; /* blue like your image */
+  background: #3587A4; /* blue like your image */
     color: white;
   padding: 15px 30px;
   display: flex;
@@ -63,7 +63,7 @@ header a {
 
 /* Footer */
 footer {
-  background: #1C5A9E; /* blue like your image */
+  background: #3587A4; /* blue like your image */
     color: white;
   text-align: center;
   padding: 15px;
