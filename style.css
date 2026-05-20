@@ -1,15 +1,13 @@
-
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #3587A4; /* blue like your image */
+  background: #1C5A9E;
 }
-
 
 /* Header */
 header {
-  background: #3587A4; /* blue like your image */
-    color: white;
+  background: #1C5A9E;
+  color: white;
   padding: 15px 30px;
   display: flex;
   justify-content: space-between;
@@ -23,28 +21,32 @@ header a {
   font-weight: bold;
 }
 
-/* Hero */
+/* Hero Section */
 .hero {
-  background: #f3f3f3;
+  background: #1C5A9E;
+  color: white;
   text-align: center;
-  padding: 60px 20px;
+  padding: 80px 20px;
 }
 
 .hero h2 {
-  font-size: 32px;
+  font-size: 36px;
+  margin-bottom: 10px;
 }
 
 .hero button {
-  background: #EEBB13;
+  background: gold;
   border: none;
-  padding: 10px 20px;
-  margin-top: 15px;
+  padding: 12px 25px;
+  margin-top: 20px;
+  font-size: 16px;
   cursor: pointer;
 }
 
 /* Services */
 .services {
-  padding: 40px 20px;
+  background: white;
+  padding: 50px 20px;
   text-align: center;
 }
 
@@ -55,16 +57,16 @@ header a {
 }
 
 .card {
-  background: #ffffff;
+  background: #f9f9f9;
   padding: 20px;
-  border: 1px solid #ddd;
   flex: 1;
+  border-radius: 8px;
 }
 
 /* Footer */
 footer {
-  background: #3587A4; /* blue like your image */
-    color: white;
+  background: #1C5A9E;
+  color: white;
   text-align: center;
   padding: 15px;
 }
