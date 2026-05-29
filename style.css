@@ -70,3 +70,48 @@ footer {
   text-align: center;
   padding: 15px;
 }
+/* Form Styling */
+.contact-form {
+  background: white;
+  padding: 20px;
+  max-width: 400px;
+  margin: 30px auto;
+  border-radius: 8px;
+}
+
+/* Inputs */
+.contact-form input,
+.contact-form textarea {
+  width: 90%;
+  padding: 10px;
+  margin-top: 5px;
+}
+
+/* Form Button */
+.contact-form button {
+  background:gold;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.contact-form h3 {
+  margin-bottom: 15px;
+  text-align: center;
+  color: black;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.cta-button {
+  background: #D4AF37;
+  color: black;
+  padding: 12px 20px;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 15px;
+
+}
